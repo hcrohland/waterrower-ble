@@ -17,7 +17,7 @@
     "url" : "https://github.com/olympum"
   },
   "dependencies": {
-    "ble-cycling-power": "olympum/ble-cycling-power",
+    "ble-cycling-power": "hcrohland/ble-cycling-power",
     "serialport": "2.0.5",
     "usb": "1.1.1",
     "debug": ">=2.2.0",
